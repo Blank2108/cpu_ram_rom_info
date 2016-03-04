@@ -53,7 +53,7 @@ import java.io.InputStream;
  * # CPU info
  * # RAM info
  * # ROM info
- * @author n006950@archermind.com
+ * @author dwenwen21@gmail.com
  */
 public class CpuRamRomInfo extends InstrumentedPreferenceActivity {
 
